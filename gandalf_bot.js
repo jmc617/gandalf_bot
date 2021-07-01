@@ -85,11 +85,3 @@ client.on("message", msg => {
 
 // keepAlive()
 client.login(mySecret)
-//TODO:
-//quote from characters (Frodo, Gollum, Sam)
-
-//learned:
-//headers
-//embed objects
-//prefix refactor 
-//tagging/testing...was tagging myself which was the author not the intended, noticed when I tested tagging the other bot
